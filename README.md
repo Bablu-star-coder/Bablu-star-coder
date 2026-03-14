@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**Bablu-star-coder/Bablu-star-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bablu-star-coder/Bablu-star-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-Here are some ideas to get you started:
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bablu-kumar-47607a305) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bablukumar31229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bk788227@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bablu-star-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bablu-star-coder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bablu-star-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: bk788227@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+[![](https://visitcount.itsvg.in/api?id=Bablu-star-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
